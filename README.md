@@ -58,3 +58,8 @@ Acknowledgements
 Twilio API Documentation
 Bootstrap Documentation
 Font Awesome Icons
+
+
+![Project Image](public/otp.png)
+
+This project is a simple web application that allows users to request and verify OTP (One-Time Password) via SMS. It uses Twilio API for sending and verifying OTPs
